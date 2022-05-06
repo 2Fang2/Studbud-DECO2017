@@ -1,0 +1,19 @@
+{
+  "name": "studbud-deco2017",
+  "version": "1.0.0",
+  "description": "Web application for studying",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2Fang2/Studbud-DECO2017.git"
+  },
+  "author": "Fang Ma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2Fang2/Studbud-DECO2017/issues"
+  },
+  "homepage": "https://github.com/2Fang2/Studbud-DECO2017#readme"
+}
